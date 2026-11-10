@@ -1,0 +1,2 @@
+# Pin to the v1 SDK: mcp 2.x renamed FastMCP -> MCPServer and breaks this lab.
+mcp[cli]<2

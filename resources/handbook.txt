@@ -1,0 +1,7 @@
+TechCorp Employee Handbook (excerpt)
+
+Welcome to TechCorp. This handbook covers working hours, leave, and IT policy.
+Office hours are 9am to 5pm, Monday to Friday. Annual leave is 25 days.
+For IT support, contact the helpdesk via the internal portal.
+
+-- end of visible content --
